@@ -36,5 +36,5 @@ Atualmente focada em:
 
 ## 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/daliane-rabelo-1036872a1/)
-[![Gmail]((mailto:daliane.rabelo01@gmail.com)
+LinkedIn https://www.linkedin.com/in/daliane-rabelo-1036872a1/
+Email: daliane.rabelo01@gmail.com
