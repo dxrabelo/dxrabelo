@@ -36,6 +36,8 @@ Atualmente focada em:
 
 ## 📫 Contato
 
-LinkedIn https://www.linkedin.com/in/daliane-rabelo-1036872a1/
+## 📫 Contato
 
-Email: daliane.rabelo01@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daliane-rabelo-1036872a1/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daliane.rabelo01@gmail.com)
+
