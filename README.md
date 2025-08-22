@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Daliane Rabelo 👋</h1>
 
-<!--
-**dxrabelo/dxrabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções práticas.
 
-Here are some ideas to get you started:
+Atualmente focada em:  
+🟣 TypeScript | 🔵 React | 🟢 Node.js | 🟡 PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Sobre mim
+
+- 👩‍💻 Migrando de área para atuar como desenvolvedora
+- 📚 Estudando JavaScript, TypeScript, React, Node.js
+- 🚀 Apaixonada por desenvolvimento web
+- 🧠 Sempre buscando aprender mais e evoluir como dev
+- 📍 São Paulo - Brasil
+
+---
+
+## 🔧 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+---
+
+## 📈 GitHub Stats
+
+![Daliane's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrabelo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxrabelo&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://www.linkedin.com/in/daliane-rabelo-1036872a1/)
+[![Gmail]((mailto:daliane.rabelo01@gmail.com)
