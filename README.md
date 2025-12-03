@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Daliane Rabelo 👋</h1>
 
-Desenvolvedora Full Stack em formação, apaixonada por tecnologia, aprendizado contínuo e criação de soluções práticas.
+Desenvolvedora Full Stack, apaixonada por tecnologia, aprendizado contínuo e criação de soluções práticas.
 
 Atualmente focada em:  
 🟣 TypeScript | 🔵 React | 🟢 Node.js | 🟡 PostgreSQL
@@ -10,7 +10,7 @@ Atualmente focada em:
 ## ✨ Sobre mim
 
 - 👩‍💻 Migrando de área para atuar como desenvolvedora
-- 📚 Estudando JavaScript, TypeScript, React, Node.js
+- 📚 JavaScript, TypeScript, React, Node.js
 - 🚀 Apaixonada por desenvolvimento web
 - 🧠 Sempre buscando aprender mais e evoluir como dev
 - 📍 São Paulo - Brasil
